@@ -98,7 +98,7 @@ int main(int argc, char **argv) {
             }
             i++;
 
-            filename = argv[i];
+            out_dir = argv[i];
         }
     }
 
